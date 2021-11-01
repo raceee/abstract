@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "7721f8260f11d50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c378fb78ea04126b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chapter9/isomorphism.md",
+            "mode": "source"
+          }
+        },
+        "group": "49cffe22a0a09b8f"
+      },
+      {
+        "id": "43d2a46f9e7b0a90",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chapter9/isomorphism.md",
+            "mode": "preview"
+          }
+        },
+        "group": "49cffe22a0a09b8f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "870998f926e95db7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a599171295425df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a340fb90097c3a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a8bccca39d1ec649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2231a3ce7258bf23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "55698364f11475fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 531
+  },
+  "right": {
+    "id": "49cd0e80690e9fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b046b36a6d901911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e111f9c000bf23c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapter9/isomorphism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c378fb78ea04126b",
+  "lastOpenFiles": [
+    "chapter9/isomorphism.md",
+    "chapter6/Corollary 6.11.md",
+    "chapter6/lagrange's theorem.md",
+    "chapter6/cosets.md",
+    "chapter6/Corollary 6.13.md",
+    "chapter6/Corollary 6.12.md",
+    "README.md",
+    "Symmetric Group.md"
+  ]
+}

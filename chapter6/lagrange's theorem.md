@@ -1,3 +1,4 @@
+#chapter6 
 Make sure that you understand [[cosets]] everything in this doc was motivated by cosets.
 
 ## Lagrange's Theorem

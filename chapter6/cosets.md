@@ -1,3 +1,4 @@
+#chapter6 
 Let G be a group and H a [[subgroup]] of G. Define a left coset of H with representative $g\in G$ to be the set $$gH = \{ gh: h\in H\}$$
 
 Right coset is similar:
