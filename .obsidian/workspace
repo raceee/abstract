@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Symmetric Group.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "03b136b44b10a3eb"
+      },
+      {
+        "id": "3d858224c9ed4d77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Symmetric Group.md",
+            "mode": "preview"
+          }
+        },
+        "group": "03b136b44b10a3eb"
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383
+    "width": 415
   },
   "right": {
     "id": "49cd0e80690e9fcd",
@@ -82,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Symmetric Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +115,7 @@
   },
   "active": "43d2a46f9e7b0a90",
   "lastOpenFiles": [
+    "Symmetric Group.md",
     "Untitled.md",
     "chapter9/isomorphism.md",
     "chapter6/Corollary 6.11.md",
@@ -109,7 +123,6 @@
     "chapter6/cosets.md",
     "chapter6/Corollary 6.13.md",
     "chapter6/Corollary 6.12.md",
-    "README.md",
-    "Symmetric Group.md"
+    "README.md"
   ]
 }
