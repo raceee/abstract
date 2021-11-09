@@ -2,7 +2,7 @@
 
 #### Definition of Isomorphism
 
-Two [[groups]] $(G, \circ)$ and $(H, \circ)$ are isomorphic if there exists a bijective map $\phi : G\rightarrow H$ such that the group operations is preserved; that is $$\phi (a * b) = \phi (a) \circ\phi (b)$$ for all $a$ and $b$ in $G$. If $G$ is isomorphic to $H$, we write $G \cong H$. The map $\phi$ is called an isomorphism.
+Two [[group]] $(G, \circ)$ and $(H, \circ)$ are isomorphic if there exists a bijective map $\phi : G\rightarrow H$ such that the group operations is preserved; that is $$\phi (a * b) = \phi (a) \circ\phi (b)$$ for all $a$ and $b$ in $G$. If $G$ is isomorphic to $H$, we write $G \cong H$. The map $\phi$ is called an isomorphism.
 
 ---
 

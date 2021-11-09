@@ -116,13 +116,14 @@
   "active": "43d2a46f9e7b0a90",
   "lastOpenFiles": [
     "Symmetric Group.md",
-    "Untitled.md",
+    "chapter5/Permutation.md",
+    "chapter4/cyclic group.md",
+    "groups.md",
     "chapter9/isomorphism.md",
+    "Untitled 1.md",
+    "chapter3/subgroup.md",
+    "chapter6/group.md",
     "chapter6/Corollary 6.11.md",
-    "chapter6/lagrange's theorem.md",
-    "chapter6/cosets.md",
-    "chapter6/Corollary 6.13.md",
-    "chapter6/Corollary 6.12.md",
-    "README.md"
+    "chapter6/lagrange's theorem.md"
   ]
 }
