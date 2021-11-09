@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c378fb78ea04126b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chapter9/isomorphism.md",
-            "mode": "source"
-          }
-        },
-        "group": "49cffe22a0a09b8f"
-      },
-      {
         "id": "43d2a46f9e7b0a90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter9/isomorphism.md",
-            "mode": "preview"
+            "file": "Untitled.md",
+            "mode": "source"
           }
-        },
-        "group": "49cffe22a0a09b8f"
+        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531
+    "width": 383
   },
   "right": {
     "id": "49cd0e80690e9fcd",
@@ -95,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter9/isomorphism.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +100,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c378fb78ea04126b",
+  "active": "43d2a46f9e7b0a90",
   "lastOpenFiles": [
+    "Untitled.md",
     "chapter9/isomorphism.md",
     "chapter6/Corollary 6.11.md",
     "chapter6/lagrange's theorem.md",
