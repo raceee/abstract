@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Symmetric Group.md",
+            "file": "chapter6/lagrange's theorem.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Symmetric Group.md",
+            "file": "chapter6/lagrange's theorem.md",
             "mode": "preview"
           }
         },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Group.md",
+                "file": "chapter6/lagrange's theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "43d2a46f9e7b0a90",
   "lastOpenFiles": [
+    "chapter6/lagrange's theorem.md",
+    "chapter6/Corollary 6.12.md",
+    "chapter6/Corollary 6.11.md",
+    "TEST 2.md",
+    "chapter10/Untitled.md",
     "Symmetric Group.md",
     "chapter5/Permutation.md",
     "chapter4/cyclic group.md",
     "groups.md",
-    "chapter9/isomorphism.md",
-    "Untitled 1.md",
-    "chapter3/subgroup.md",
-    "chapter6/group.md",
-    "chapter6/Corollary 6.11.md",
-    "chapter6/lagrange's theorem.md"
+    "chapter9/isomorphism.md"
   ]
 }
